@@ -7,4 +7,6 @@
 
 파이썬 딥러닝 파이토치
 
+Modern Computer Vision with Pytorch
+
 입니다.
